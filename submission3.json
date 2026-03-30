@@ -1,0 +1,8 @@
+{
+  "prompt": "Japanese Edo-period ukiyo-e woodblock print style. A lone traveller descends a steep mountain path in careful deliberate steps, always moving downward toward a glowing valley below. The mountain has clearly defined contour lines showing elevation. Flat unmodulated areas of color — deep indigo sky, ochre earth, pale mist in the valley. Bold outlines in the manner of Katsushika Hokusai. Visible woodgrain texture. No photographic shading — only flat color fills separated by strong black lines. Mount Fuji visible in the far distance. Traditional washi paper texture. No text, no labels.",
+  "model": "Ideogram 2",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Edo-period ukiyo-e woodblock print",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Flat unmodulated color fills, bold Hokusai-style outlines, visible woodgrain texture, high-contrast figure-ground, indigo and ochre palette, contour lines encoding elevation — no photographic shading."
+}
