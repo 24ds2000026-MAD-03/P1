@@ -1,0 +1,6 @@
+{
+  "prompt": "A weathered tailor's workshop, golden afternoon light. A single dress form mannequin stands centre-frame, wrapped obsessively in hundreds of measuring tapes that follow every minute curve, dent, and irregularity of its surface — the tapes snake into every crease, pinned down to capture the tiniest imperfection. On a rack beside it hang three or four elegant simple garments, untouched. The room feels claustrophobic with precision. Photorealistic, shallow depth of field, 35mm film grain, muted warm tones. No text, no labels, no diagrams.",
+  "model": "Ideogram 2",
+  "concept": "overfitting",
+  "metaphor": "A mannequin wrapped in tape tracing every flaw — memorises this one body perfectly, fits no other. Training noise captured, generalisation lost."
+}
